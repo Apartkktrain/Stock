@@ -3,6 +3,7 @@ For Pocketmine-MP
 
 **_このプラグインはR_Funa様が制作された株プラグインをyurisi様のご協力のもと、API3.12.0に対応させたものです。_**
 また、一部メッセージ文を自鯖用に改造しています。
+[R_Funa様github](https://github.com/FUNA318)
 
 
 対応プラグイン　Economy_API

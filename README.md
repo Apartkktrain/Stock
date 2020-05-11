@@ -2,6 +2,8 @@
 For Pocketmine-MP
 
 **_このプラグインはR_Funa様が制作された株プラグインをyurisi様のご協力のもと、API3.12.0に対応させたものです。_**
+また、一部メッセージ文を自鯖用に改造しています。
+
 
 対応プラグイン　Economy_API
 使用方法　　　/stock help　コマンド使用法一覧表ぞ
@@ -27,4 +29,4 @@ For Pocketmine-MP
 # Cooperation
 このプラグインの修正に当たり、以下の方にご協力・ご指導を頂きました。ありがとうございます。
 
-yurisi様  コード訂正
+[yurisi様](https://homepage.yurisi.space/)  コード訂正

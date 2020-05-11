@@ -1,7 +1,7 @@
 # Stock
 For Pocketmine-MP
 
-_このプラグインはR_Funa様が制作された株プラグインをyurisi様のご協力のもと、API3.12.0に対応させたものです。_
+**_このプラグインはR_Funa様が制作された株プラグインをyurisi様のご協力のもと、API3.12.0に対応させたものです。_**
 
 対応プラグイン　Economy_API
 使用方法　　　/stock help　コマンド使用法一覧表ぞ

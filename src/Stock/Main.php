@@ -50,6 +50,7 @@ $this->getServer()->getPluginManager()->disablePlugin($this);
 
   public function onCommand(CommandSender $sender, Command $command, string $label, array $args) : bool{
     if(strtolower($command->getName()) == "stock"){
+      $name=$sender->getName();
       if(!isset($args[0])) return false;
       switch($args[0]){
        case "help":
@@ -267,6 +268,8 @@ $this->getServer()->getPluginManager()->disablePlugin($this);
     $name = $p->getName();
     if($this->pre->exists($name)){
       $n = mt_rand(1,8);
+      $pre = $this->pre->get($name);
+      $pri = $this->price->get($pre);
       if($n == 3){
         $p->sendMessage("§f[STOCK]§b経費500ドル");
         $p->sendMessage("§f[STOCK]§b内訳1 : 会社運営額500ドル");

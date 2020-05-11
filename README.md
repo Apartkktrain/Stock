@@ -6,6 +6,8 @@ For Pocketmine-MP
 [R_Funa様github](https://github.com/FUNA318)
 
 
+**このプラグインを動かすにはDevTool等の使用が必要となります。**
+
 対応プラグイン　Economy_API
 使用方法　　　/stock help　コマンド使用法一覧表ぞ
  /stock buy <会社名> <個数>株を買います。
